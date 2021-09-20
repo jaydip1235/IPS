@@ -1,1 +1,1 @@
-# Website Link : https://ipeople-business-solution.netlify.app/
+# Website Link : https://ipeoplebusiness.netlify.app/
